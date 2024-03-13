@@ -1,3 +1,5 @@
+//sum of intergers 
+
 #include <iostream>
 #include<cmath> //standard way of importing c libs in c++.
 
